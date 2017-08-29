@@ -11,9 +11,9 @@ El funcionamiento se intenta mantener simple e intuitivo:
                "metodo",
                new Hook<int/*tipo de valor que retorna*/>(
                    new Func<string, object[], object[]>((string methodName, object[] parametros) => {
-                       int a = parametros[0];
-                       int b = parametros[1];
-                       int c = parametros[2];
+                       int a = (int)parametros[0];
+                       int b = (int)parametros[1];
+                       string c = (string)parametros[2];
                        Console.WriteLine("Recibido llamada a {0} onBeforeFunction", methodName);
                        c = "otra cosa"; //Cambiamos el valor del parametro.
                        return parametros;
