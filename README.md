@@ -4,8 +4,8 @@ Clase Simple que permite instalar eventos onBeforeFunction y onAfterFunction par
 * OnAfterFunction permite modificar el valor retornado (si retorna algo)
 
 El funcionamiento se intenta mantener simple e intuitivo:
-* Todo metodo que vaya a ser sobreescrito debe ser virtual
-* Para instalar lo que sería el Hook, suponiendo una clase B que extiende a BaseClass y tiene un metodo 'public int metodo(int a, int b, string c)'
+* Todo metodo que vaya a ser sobreescrito debe ser anotado como virtual
+* Para instalar lo que sería el Hook, suponiendo una clase B que extiende a BaseClass y tiene un metodo 'public virtual int metodo(int a, int b, string c)'
 ```c#
     _entidad.installHook(
                "metodo",
