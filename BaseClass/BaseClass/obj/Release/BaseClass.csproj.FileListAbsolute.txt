@@ -1,0 +1,5 @@
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\bin\Release\BaseClass.exe.config
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\bin\Release\BaseClass.exe
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\bin\Release\BaseClass.pdb
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\obj\Release\BaseClass.exe
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\obj\Release\BaseClass.pdb

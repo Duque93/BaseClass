@@ -1,0 +1,6 @@
+e:\duque\documents\visual studio 2015\Projects\BaseClass\BaseClass\bin\Debug\BaseClass.exe.config
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\bin\Debug\BaseClass.exe
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\bin\Debug\BaseClass.pdb
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\obj\Debug\BaseClass.csprojResolveAssemblyReference.cache
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\obj\Debug\BaseClass.exe
+E:\Duque\Documents\Visual Studio 2015\Projects\BaseClass\BaseClass\obj\Debug\BaseClass.pdb
